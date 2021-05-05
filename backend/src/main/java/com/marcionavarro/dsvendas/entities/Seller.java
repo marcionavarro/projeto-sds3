@@ -26,7 +26,6 @@ public class Seller {
 	}
 
 	public Seller(Long id, String name) {
-		super();
 		this.id = id;
 		this.name = name;
 	}
